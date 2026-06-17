@@ -78,6 +78,4 @@ Each metric has a configurable win condition (highest or lowest wins) and option
 
 - [Next.js 15](https://nextjs.org/) with App Router (static export)
 - [React 19](https://react.dev/)
-- [MUI 6](https://mui.com/) (Material UI)
-- [dnd-kit](https://dndkit.com/) for drag-and-drop
 - [TypeScript 5](https://www.typescriptlang.org/)
