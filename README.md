@@ -1,4 +1,4 @@
-# Leaderboard Tracker
+# Gaming Score Tracker
 
 A local leaderboard and challenge tracker for gaming competitions. Supports free-for-all and team-based regular matches or bracket-style tournaments.
 
