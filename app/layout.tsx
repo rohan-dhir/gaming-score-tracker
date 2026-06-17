@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Boards Local',
+  title: 'Gaming Score Tracker',
   description:
     'A free, open-source challenge tracker for local gaming competitions. No accounts, no servers, no database — just friendly competition in your browser.',
 };
